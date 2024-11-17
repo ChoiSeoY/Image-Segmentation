@@ -21,9 +21,12 @@ data link: https://www.kaggle.com/datasets/carlolepelaars/camvid
 * SegNet
 * Unet
 
-다양한 모델을 사용해서 최적의 성능을 내는 모델을 개발
+다양한 모델을 사용해서 최적의 성능을 내는 모델을 개발하는 것이 목
 
 ## Contribution
 이 프로젝트에서 개선 또는 리팩토링이 필요한 부분이 있다면 언제든 알려주시면 감사합니다!
 
 If there is anything in this project that needs improvement or refactoring, please feel free to let me know!
+
+  1. ```git checkout -b feature/new-model```
+  2. Issue, Pull Request 제출
